@@ -121,7 +121,7 @@ Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11 ✔ |
 ===============================================================================
 
 * **Abisade Ogunwoolu** - *backend work* 
-* **Bemyamin Babayani** - *frontend work* 
+* **Benyamin Babayani** - *frontend work* 
 * **Jaskaran Singh** - *frontend work* 
 * **Jieying Zhang** - *frontend work* 
 * **Ruab Haque** - *backend work* 
